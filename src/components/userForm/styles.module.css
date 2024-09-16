@@ -1,0 +1,26 @@
+p {
+  color: blue
+}
+
+;
+
+button {
+  background-image: aqua
+}
+
+;
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+
+;
+
+h1 {
+  color: rgb(0, 149, 255)
+}
+
+;

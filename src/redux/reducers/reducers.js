@@ -1,6 +1,6 @@
 import { CHANGEUSERINFO } from "../actions/actions";
 
-const User = { name: "Alice", status: "true" }; // начальное состояние
+const User = { name: "Alice", status: "Online" }; // начальное состояние
 
 const reducerUsInfo = (state = User, action) => {
   if (action.type === CHANGEUSERINFO) {
